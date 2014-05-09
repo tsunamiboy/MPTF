@@ -1,9 +1,9 @@
 {
-  "consumer_key":"CONSUMER_KEY",
-  "consumer_secret":"CONSUMER_SECRET",
-  "oauth_token":"OATH_TOKEN",
-  "oauth_token_secret":"OAUTH_TOKEN_SECRET",
-  "gmaps":"GMAPS_API_KEY",
-  "app_name":"APP_NAME",
-  "track": "[WORDS_TO_TRACK]"
+  "consumer_key":"D2YDmerwRZ3mKieohasS5yrGU",
+  "consumer_secret":"azKopK54b2oFYXnhPpCQyPw5JcR9YsyXYbLEf1EbKFopdWnVph",
+  "oauth_token":"602410803-CnIBmZUkdHu0MdXgvuQZXHQFLeQmm9ytHpoEUndn",
+  "oauth_token_secret":"KS0Lk36MpMZjaR4TUxYcYMOB4lxt3a5DQFpFaI34UczOD",
+  "gmaps":"AIzaSyBiuZp1WNBi5PTJ9hruhy-s1f1JNb5iPK8",
+  "app_name":"MPTF",
+  "track": "[fuck,fucks,fucking,fucker,motherfucker]"
 }
