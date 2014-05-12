@@ -1,5 +1,3 @@
-// added comment
-// added comment
 map = undefined
 bombs = []
 
