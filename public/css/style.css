@@ -6,6 +6,23 @@ body {
 a {
   color: #00B7FF;
 }
+
+/* ticker in tweet column */
+/* added by D Blake */
+.tickercontainer
+//width of the original container in which the ticker appears
+.tickercontainer .mask
+//can be used to achieve padding within the container
+ul.newsticker {
+    //important to enable css3 transitions properly 
+    -webkit-transition: all 0s linear;
+    -moz-transition: all 0s linear;
+    -o-transition: all 0s linear;
+    transition: all 0s linear;
+    list-style:none;
+    margin:0;
+}
+
 /* GOOGLE MAPS SHIT*/
 #map-canvas {
   height: 100%;

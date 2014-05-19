@@ -5,7 +5,7 @@ grunt.loadNpmTasks('grunt-contrib-coffee');
     coffee: {
       compile: {
         files: {
-          'assets/js/fBomb.js': ['assets/coffee/#04-coffeeBomb.coffee']
+          'assets/js/fBomb.js': ['assets/coffee/#01-coffeeBomb.coffee']
         }
       }
     }
